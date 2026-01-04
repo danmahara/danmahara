@@ -30,7 +30,6 @@ Here are some ideas to get you started:
 - 🧩 Experienced in **REST APIs, MVC, JPA, Security**
 - 🗄️ Strong database knowledge (**MySQL, Flyway**)
 - 🧪 Familiar with clean architecture & layered design
-<!-- - 🧠 Currently working as a **Junior Laravel Developer**, transitioning to Spring Boot -->
 - 🚀 Goal: Build scalable, secure enterprise backend systems
 
 ---
