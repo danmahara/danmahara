@@ -1,22 +1,5 @@
-<!--
-**danmahara/danmahara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
 <h1 align="center">Hi 👋, I'm Dan Mahara</h1>
-<h3 align="center">Aspiring Java Backend Developer | Spring Boot</h3>
-<!-- <h3 align="center">Junior Java Spring Boot Backend Developer</h3> -->
+<h3 align="center">Backend Developer · Laravel & Spring Boot · DevOps</h3>
 
 <p align="center">
   <a href="https://danmahara.com.np">🌐 Portfolio</a> •
@@ -27,59 +10,67 @@ Here are some ideas to get you started:
 ---
 
 ## 👨‍💻 About Me
-- ☕ Backend developer with **Java & Spring Boot** focus
-- 🧩 Experienced in **REST APIs, MVC, JPA, Security**
-- 🗄️ Strong database knowledge (**MySQL, Flyway**)
-- 🧪 Familiar with clean architecture & layered design
-- 🚀 Goal: Build scalable, secure enterprise backend systems
+
+- 🏢 Backend & DevOps developer at a software company in Kathmandu
+- 🛠️ Building production web apps with **Laravel** and **Spring Boot**
+- 📱 Android development experience with **Java** and **Kotlin**
+- 🚀 Handling **Docker deployments, server management & CI/CD** in production
+- 🎯 Goal: Scalable backend systems and cloud infrastructure
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Backend
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/JPA_Hibernate-59666C?style=for-the-badge)
 
-### Web & Frontend
-![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+### DevOps & Infrastructure
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+### Mobile
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
 ### Database & Tools
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Flyway](https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge)
 
 ---
 
-## 📌 Featured Projects (Spring Boot First)
+## 📌 Featured Projects
 
 ### 🛒 E-Commerce Web Application (Spring Boot)
-- Spring Boot + Thymeleaf + JPA
-- Authentication & role-based authorization
+- Spring Boot + Thymeleaf + JPA/Hibernate
+- Role-based authentication with Spring Security
 - Product, cart & order management
-- Flyway database migrations
-- MySQL integration
+- Flyway database migrations · MySQL
 
-### 🔐 Spring Boot REST API (Security Focused)
-- RESTful APIs
-- JWT-based authentication
-- Spring Security configuration
-- DTOs, validation & exception handling
+### 🔐 Spring Boot REST API
+- JWT-based authentication & authorization
+- Spring Security · DTOs · validation · exception handling
+- RESTful API design best practices
 
 ### 📱 Secure Android File Sharing App
-- Java-based Android app
-- WiFi Direct communication
-- AES encryption
-- Clean architecture & progress tracking
-
-<!-- 👉 **Check pinned repositories below 👇** -->
+- Java · WiFi Direct peer-to-peer communication
+- AES encryption for secure file transfer
+- Clean architecture & real-time progress tracking
 
 ---
 
@@ -88,26 +79,25 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=danmahara&show_icons=true&theme=tokyonight&cache_seconds=86400" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danmahara&layout=compact&theme=tokyonight&cache_seconds=86400" />
 </p>
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=danmahara&theme=tokyonight" />
 </p>
 
 ---
 
-## 🎯 Currently Focusing On
-- Advanced Spring Boot & Spring Security
-- REST API best practices
-- Backend system design
+## 🎯 Currently Learning
+
+- AWS cloud infrastructure (EC2, S3, RDS)
+- Kubernetes & container orchestration
+- Advanced Spring Boot microservices
 
 ---
 
 ## 📫 Contact
+
 - 🌐 Portfolio: https://danmahara.com.np
 - 💼 LinkedIn: https://www.linkedin.com/in/dan-mahara-1a2846280/
 - 📧 Email: dan.mahara.0909@gmail.com
-
